@@ -15,13 +15,7 @@ class App extends Component {
         console.log('will mount');
 
         let firebaseConfig = {
-            apiKey: "AIzaSyBvvXJbIO3-3ku9T7NvCOuSLN13xOWy2-Q",
-            authDomain: "auth-710dc.firebaseapp.com",
-            databaseURL: "https://auth-710dc.firebaseio.com",
-            projectId: "auth-710dc",
-            storageBucket: "auth-710dc.appspot.com",
-            messagingSenderId: "1063692686603",
-            appId: "1:1063692686603:web:04497158203bc6b9"
+           
           };
           console.log('will mount');
           // Initialize Firebase
